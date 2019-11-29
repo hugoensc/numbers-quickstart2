@@ -1,0 +1,11 @@
+C:\Users\hugo.santamaria\Documents\NetCore\numbers-quickstart\bin\Debug\netcoreapp3.0\NumbersInCSharp.exe
+C:\Users\hugo.santamaria\Documents\NetCore\numbers-quickstart\bin\Debug\netcoreapp3.0\NumbersInCSharp.deps.json
+C:\Users\hugo.santamaria\Documents\NetCore\numbers-quickstart\bin\Debug\netcoreapp3.0\NumbersInCSharp.runtimeconfig.json
+C:\Users\hugo.santamaria\Documents\NetCore\numbers-quickstart\bin\Debug\netcoreapp3.0\NumbersInCSharp.runtimeconfig.dev.json
+C:\Users\hugo.santamaria\Documents\NetCore\numbers-quickstart\bin\Debug\netcoreapp3.0\NumbersInCSharp.dll
+C:\Users\hugo.santamaria\Documents\NetCore\numbers-quickstart\bin\Debug\netcoreapp3.0\NumbersInCSharp.pdb
+C:\Users\hugo.santamaria\Documents\NetCore\numbers-quickstart\obj\Debug\netcoreapp3.0\NumbersInCSharp.csprojAssemblyReference.cache
+C:\Users\hugo.santamaria\Documents\NetCore\numbers-quickstart\obj\Debug\netcoreapp3.0\NumbersInCSharp.AssemblyInfoInputs.cache
+C:\Users\hugo.santamaria\Documents\NetCore\numbers-quickstart\obj\Debug\netcoreapp3.0\NumbersInCSharp.AssemblyInfo.cs
+C:\Users\hugo.santamaria\Documents\NetCore\numbers-quickstart\obj\Debug\netcoreapp3.0\NumbersInCSharp.dll
+C:\Users\hugo.santamaria\Documents\NetCore\numbers-quickstart\obj\Debug\netcoreapp3.0\NumbersInCSharp.pdb
