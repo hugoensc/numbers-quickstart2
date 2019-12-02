@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace NumbersInCSharp
 {
     class Program
@@ -72,12 +73,6 @@ namespace NumbersInCSharp
 
         static void WorWithDoubles()
         {
-            // WorkingWithIntegers();
-
-            // OrderPrecedence();
-
-            //TestLimits();
-
             double a = 5;
             double b = 4;
             double c = 2;
@@ -100,7 +95,27 @@ namespace NumbersInCSharp
 
         static void Main(string[] args)
         {
-            
+            // OrderPrecedence();
+            // TestLimits();
+            // WorkingWithIntegers();
+            // WorWithDoubles
+
+            decimal min = decimal.MinValue;
+            decimal max = decimal.MaxValue;
+            Console.WriteLine($"The range of the decimal type is {min}, to {max}");
+
+            // Prueba de precisión
+            double a = 1.0;
+            double b = 3.0;
+            Console.WriteLine(a / b);
+
+            decimal c = 1.0M;
+            decimal d = 3.0M;
+            Console.WriteLine(c / d);
+
+            double radio = 2.5;
+            double area = (radio * radio) + Math.PI;
+            Console.WriteLine(area);
         }
     }
 }
